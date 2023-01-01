@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "element-ui": "^2.15.12",
+    "swiper": "^8.4.5"
+  }
+}
